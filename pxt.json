@@ -1,0 +1,21 @@
+{
+    "name": "Micro Chat",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "无线": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
